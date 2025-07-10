@@ -1,6 +1,6 @@
 
 # This is a sample .gitignore file for a Java project using Gradle.
-application.yml
+src/main/resources/application.yml
 
 HELP.md
 .gradle
