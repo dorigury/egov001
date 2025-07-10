@@ -1,3 +1,7 @@
+
+# This is a sample .gitignore file for a Java project using Gradle.
+application.yml
+
 HELP.md
 .gradle
 build/
